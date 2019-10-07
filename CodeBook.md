@@ -61,7 +61,8 @@ column "code" as the index variables
 - A _ spacing was added in between words of variable names  
 
 8 - The resulting data set from step 7 was summarized as the average of each 
-variable to create a new data set DF5. This data is output into Final_Data.txt
+variable to create a new data set DF5 a table containing 180 rows and 89 columns.
+This data is output into Final_Data.txt
 
 ## Variable Names
 
