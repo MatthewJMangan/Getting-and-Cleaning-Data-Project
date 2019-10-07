@@ -1,4 +1,4 @@
-### README
+# README
 
 ## Getting and Cleaning Data Course Project
 This is a repository by Matt Mangan containing files to run data clean-up and
@@ -9,10 +9,10 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ## Files
 
-# CodeBook.md contains description of code, data, and ouput of the file 
-"run_analysis.R".
+### CodeBook.md 
+contains description of code, data, and ouput of the file "run_analysis.R".
 
-# run_analysis.R 
+### run_analysis.R 
 - Merges training and test data sets with corresponding names and subject data
 - Extracts only measurements pertaining to mean or standard deviation
 - Adds descriptive activity names into the data set
@@ -20,4 +20,5 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 - Creates a final data set which contains the mean of all variable columns
 - Exports the final data into a text file Final_Data.txt
 
-# Final_Data.txt is the final output data returned by run_analysis.R
+### Final_Data.txt 
+is the final output data returned by run_analysis.R
